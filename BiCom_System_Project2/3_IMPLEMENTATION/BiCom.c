@@ -3,10 +3,6 @@
 #include<stdbool.h>
 #define GPIOD_Pin
 #define GPIO_PCC
-#define window_status()
-#define alarm_status()
-#define battery_status()
-#define door_status()
 #define GPIO_Init
 #define GPIO_ReadFromInputPin
 #define BUTTON_PRESSED ENABLE

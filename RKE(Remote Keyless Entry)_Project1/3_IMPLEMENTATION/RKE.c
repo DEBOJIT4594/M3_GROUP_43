@@ -111,21 +111,21 @@ GPIO_Init(&GPIOBUTTON);
       delay();
       count = count + 1;
       }
-   if (count == 3)
+   if (count == 1)
    {
-   lock();
+      lock();
    }
-   else if (count == 9)
+   else if (count == 2)
    {
       unlock();
    }
-   else if (count==18)
+   else if (count==3)
    {
-   Alarm_Activation_Deactivation();
+      Alarm_Activation_Deactivation();
    }
-   else if (count==27)
+   else if (count==4)
    {
-   Approach_light();
+      Approach_light();
       }
    }
  }
