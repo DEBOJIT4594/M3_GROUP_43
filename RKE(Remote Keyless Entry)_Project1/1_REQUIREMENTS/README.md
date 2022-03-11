@@ -17,4 +17,8 @@
 |LL01     | All the LEDs shall turn on by single click.  |
 |LL02     | All the LEDs shall turn on after two clicks.|
 |LL03     | All LEDs shall turn on in clockwise after three clicks. |
-|LL04     | |
+|LL04     | Shall show random numbers |
+
+
+DONE BY - DEBOJIT PARIAL
+--
