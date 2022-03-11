@@ -1,3 +1,12 @@
+/* WHOLE WORK DONE BY DEBOJIT PARIAL WHICH INCLUDES
+RKE.c
+makefile.txt
+Mystm32f407xx_gpio_driver.c
+Mystm32f407xx_gpio_driver.h
+Mystm32f407xx.h
+stm32_startup.c
+stm32_ls.ld
+*/
 #include <stdio.h>
 #include "MyStm32f407xx.h"
 #include<stdbool.h>
