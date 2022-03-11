@@ -99,10 +99,8 @@ __STRENGTHS__
 
 **BLOCK DIAGRAM**
 
+![WhatsApp Image 2022-03-11 at 16 42 57](https://user-images.githubusercontent.com/98827063/157934025-405fe9fc-67d3-4f5b-ae42-313ea34c263b.jpeg)
 
-
-
-**CIRCUIT DESIGN**
 
 
 **TEST PLANS**
