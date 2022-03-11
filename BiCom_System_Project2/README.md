@@ -1,4 +1,4 @@
-**BiCom System** 
+**BICOM SYSTEM** 
 ====================
 
 **INTRODUCTION**
