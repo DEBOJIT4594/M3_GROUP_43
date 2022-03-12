@@ -40,21 +40,10 @@ Remote keyless entry is a system which allows users to lock and unlock the doors
 **SWOT ANALYSIS**
 --
 
-__STRENGTHS__
 
-- It works wirelessly and reduce human effort.
 
-**WEAKNESSES**
+![Screenshot (223)](https://user-images.githubusercontent.com/99093515/158006576-83df36cd-b496-4aee-9c9d-5c76b0b22f24.png)
 
-- It has limited range(distance).  
-
-**OPPORTUNITIES**
-
-- It can be implemented on mobile phones and its range(distance) can be increased. 
-
-**THREATS**
-
-- The components of the system are hard to replace.
 
 **5W's & 1H**
 --
