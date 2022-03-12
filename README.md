@@ -14,3 +14,25 @@ VISHNUVARDHAN REDDY PUTTA
 MOULIGA P
 
 DEBOJIT PARIAL
+
+## Project 1
+
+| Contents| Done By|
+| ---| ---|
+| Repositary Created By| Debojit Parial|
+| Requirements| Debojit Parial|
+| Architecture| Debojit Parial, Vishnuvardhan Reddy Putta|
+| Implementation| Debojit Parial, Vishnuvardhan Reddy Putta, Abdul Riyaz, Mouliga|
+| Test plans| Debojit Parial, Vishnuvardhan Reddy Putta|
+| Report| Debojit Parial|
+ 
+## project 2
+| Contents| Done By|
+| ---| ---|
+| Repositary Created By| Debojit Parial|
+| Requirements| Debojit Parial|
+| Architecture| Debojit Parial, Vishnuvardhan Reddy Putta|
+| Implementation| Debojit Parial, Vishnuvardhan Reddy Putta, Abdul Riyaz, Mouliga|
+| Test plans| Debojit Parial, Vishnuvardhan Reddy Putta|
+| Report| Debojit Parial|
+ 
