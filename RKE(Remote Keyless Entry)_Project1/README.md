@@ -115,3 +115,14 @@ Remote keyless entry is a system which allows users to lock and unlock the doors
 |   02    | All LEDs shall off at same time             | 2 press buttons  | All LEDs off                         | All LEDs off                         | Pass     |
 |   03    | All LEDs shall on in clockwise              | 3 press buttons  | All LEDs on in clockwise manner      | All LEDs on in clockwise manner      | Pass     |
 |   04    | All LEDs shall on in anti-clockwise         | 4 press buttons  | All LEDs on in anti-clockwise manner | All LEDs on in anti-clockwise manner | Pass     |
+
+
+**WORKDONEBY**
+| Contents| Done By|
+| ---| ---|
+| Repositary Created By| Debojit Parial|
+| Requirements| Debojit Parial|
+| Architecture| Debojit Parial, Vishnuvardhan Reddy Putta|
+| Implementation| Debojit Parial, Vishnuvardhan Reddy Putta, Abdul Riyaz, Mouliga|
+| Test plans| Debojit Parial, Vishnuvardhan Reddy Putta|
+| Report| Debojit Parial|
